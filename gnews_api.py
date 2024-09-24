@@ -5,7 +5,7 @@ import time
 
 def scrape_gnews_api():
     keywords = ["flood", "earthquake", "tsunami", "fire", "hurricane", "tornado", "volcano"]
-    apikey = "d46c8c4c6a43ed9e2eb6933a0176226e"
+    apikey = "Your API Key"
     all_news_data = []
 
     for keyword in keywords:
